@@ -1,0 +1,11 @@
+streamlit==1.18.1
+python-dotenv==0.21.0
+langchain==0.3.3
+langchain-community==0.2.10
+langchain-core==0.3.12
+langchain-text-splitters==0.3.0
+langchain_google_genai==2.0.1
+faiss-gpu==1.7.2
+numpy==1.23.5
+scipy==1.10.1
+google-generativeai
